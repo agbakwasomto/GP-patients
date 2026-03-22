@@ -22,3 +22,5 @@ Prevalence vs. Distribution: While Milton Keynes has the highest share of the re
 Socioeconomic Factors: Luton records the highest Average Deprivation Score (25) in the region, more than double that of Central Bedfordshire (12).
 Deprivation Correlation: The line chart tracking the relationship between deprivation and obesity shows a slight positive trendline, suggesting a potential correlation where higher deprivation scores may link to marginally higher obesity prevalence, though variations exist.
 Demographics: Across all four local authorities, the working-age population (18-65) represents the vast majority of registered patients, followed by the under-18 demographic.
+# Dashboard
+<img width="1027" height="666" alt="GP data" src="https://github.com/user-attachments/assets/04949d78-2fa3-4a1d-829c-f1ebdee41560" />
