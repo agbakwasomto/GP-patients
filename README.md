@@ -1,5 +1,5 @@
 # GP-patients
-These data are from GP records across three combined Local Authorities and concern the distribution of diabetes.
+These <a href="https://github.com/agbakwasomto/GP-patients/blob/main/Bedford%20council.xlsx">data </a> are from GP records across three combined Local Authorities and concern the distribution of diabetes.
 GP Patient's Data: BLMK Obesity Report
 # Description
 This dashboard provides an analytical overview of patient data across the BLMK (Bedfordshire, Luton, and Milton Keynes) region, focusing specifically on obesity prevalence and its potential socioeconomic indicators. The report analyzes a total registered patient population of 1,103,136, identifying 85,216 obese patients. The data visualizations incorporate demographic breakdowns for the year 2023 and explore the relationship between regional deprivation scores and health outcomes.
